@@ -21,6 +21,7 @@ public class OAuthConstants {
 	public static final String URL_ENCODED_CONTENT = "application/x-www-form-urlencoded";
 	
 	public static final int HTTP_OK = 200;
+	public static final int HTTP_UNREAD = 202;
 	public static final int HTTP_FORBIDDEN = 403;
 	public static final int HTTP_UNAUTHORIZED = 401;
 	
